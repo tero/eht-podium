@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.podium-container {
+  display: flex;
+}
+
+.column {
+  width: 33.33%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.gold {
+    background-color: gold;
+    height: 200px;
+}
+
+.silver {
+    background-color: silver;
+    height: 150px;
+}
+
+.bronze {
+    background-color: #CD7F32;
+    height: 100px;
+}
